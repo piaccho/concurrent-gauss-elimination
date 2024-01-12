@@ -35,19 +35,8 @@ Example file:
 6.0 15.0 27.0
 ```
 This input represents this system of linear equations:
-$$\begin{bmatrix}
-2 & 1 & 3\\ 
-4 & 3 & 8\\ 
-6 & 5 & 16
-\end{bmatrix}\begin{bmatrix}
-x_{1}\\ 
-x_{2}\\ 
-x_{3}
-\end{bmatrix}=\begin{bmatrix}
-6\\ 
-15\\ 
-27
-\end{bmatrix}$$
+
+<img src='docs/latex1.png' width='300'>
 
 ### Example
 
@@ -66,24 +55,10 @@ And gives output:
 1.0 1.0 1.0 
 ```
 Which corresponds to this soluton:
-$$\begin{bmatrix}
-1 & 0 & 0\\ 
-0 & 1 & 0\\ 
-0 & 0 & 1
-\end{bmatrix}\begin{bmatrix}
-x_{1}\\ 
-x_{2}\\ 
-x_{3}
-\end{bmatrix}=\begin{bmatrix}
-1\\ 
-1\\ 
-1
-\end{bmatrix}$$
-$$\left\{\begin{matrix}
-x_{1}=1\\ 
-x_{2}=1\\ 
-x_{3}=1
-\end{matrix}\right.$$ 
+
+<img src='docs/latex2.png' width='300'>
+
+<img src='docs/latex3.png' width='150'>
 
 
 
